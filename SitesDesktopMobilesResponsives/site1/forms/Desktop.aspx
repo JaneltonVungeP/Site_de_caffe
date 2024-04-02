@@ -250,6 +250,7 @@
                         <i class="fa-solid fa-phone"></i>
                         <asp:TextBox ID="TextBox4" CssClass="text" runat="server" PlaceHolder="Numero"></asp:TextBox>
                     </div>
+                   
                     <asp:Button ID="Button2" runat="server" CssClass="btn1" Text="Button" />
                 </asp:Panel>
 
